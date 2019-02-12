@@ -47,10 +47,34 @@
             }
         },
         {
+            "Key": "11db44bd-a730-4e16-a9d3-080ada252f8a",
+            "Value": {
+                "id": "b5e4707f-0ae3-4e50-84be-d10951a52728",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "2ac415a1-12c9-4fa0-9d53-b5aefa5f67ee",
+            "Value": {
+                "id": "dce82633-46ab-4d8a-9544-c1dc2371187c",
+                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ee69817-83fb-44d7-ba06-1de20bb67549",
             "Value": {
                 "id": "e47d3c30-7406-4be7-9f0f-922ddf59bdc2",
                 "resourcePath": "views\\2ee69817-83fb-44d7-ba06-1de20bb67549.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "335ac0b7-8de1-47f4-a384-562abe2ecd16",
+            "Value": {
+                "id": "3d0035e0-244a-4801-b2fa-3096d9eafbcb",
+                "resourcePath": "views\\335ac0b7-8de1-47f4-a384-562abe2ecd16.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -135,6 +159,14 @@
             }
         },
         {
+            "Key": "9e985394-5b18-4c3a-9b62-4baa2c00730d",
+            "Value": {
+                "id": "0e73459a-4805-4b33-a772-d3bb47b898eb",
+                "resourcePath": "sprites\\sTiles\\sTiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a20bd09e-44f2-4ecb-af17-53d207f58736",
             "Value": {
                 "id": "db916e7a-d2d2-45a9-a078-fbe9a271ecb1",
@@ -159,11 +191,43 @@
             }
         },
         {
+            "Key": "c634fe8b-cfe8-42f9-80f1-675ac806a45e",
+            "Value": {
+                "id": "fd204021-87aa-49a6-8887-4fd186dbacfc",
+                "resourcePath": "tilesets\\tTiles\\tTiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "29537479-f463-4c9e-ace1-cca402aa6e07",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ecaae140-39cc-48df-870e-79ce3603aa19",
+            "Value": {
+                "id": "bf74c66d-6cf1-4f7f-81bb-3471a848264d",
+                "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef335af2-78aa-4571-9c8a-4403b2bd3086",
+            "Value": {
+                "id": "9a9129d1-60f8-4bda-bf43-b263bcc41cbd",
+                "resourcePath": "objects\\oSpawn\\oSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f007c2fb-6b37-4b41-9246-4ba9d1df54e3",
+            "Value": {
+                "id": "8fd10009-0d75-47b3-a39a-863cf4bfa289",
+                "resourcePath": "views\\f007c2fb-6b37-4b41-9246-4ba9d1df54e3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
