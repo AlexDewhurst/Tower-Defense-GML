@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01610d10-8b17-442a-9361-c920ffe39fc0",
+            "Value": {
+                "id": "12abbdca-3aa0-4495-8cbf-e7137d88b49d",
+                "resourcePath": "objects\\oTower2\\oTower2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "035e5223-715b-4108-bb79-8e75900b104f",
             "Value": {
                 "id": "a69440a7-f249-4671-964b-73e4e51350b1",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "3aab2fa0-ba4e-4bdb-af53-68741dad4981",
+            "Value": {
+                "id": "89e3c375-7c43-4107-bf53-d384e8e3f6fd",
+                "resourcePath": "objects\\oTower2C\\oTower2C.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3d45286a-227f-4816-9853-b2181da58521",
             "Value": {
                 "id": "42ae0e10-f193-4bd0-9b32-fea4e04930f3",
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "45b356dc-6f48-4f26-bc5a-354236df1539",
+            "Value": {
+                "id": "4e689dbe-9c9d-4a2d-88e3-af23995859dd",
+                "resourcePath": "objects\\oTower3\\oTower3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45ba7ff5-1989-4a87-bdcf-8ababdc46844",
             "Value": {
                 "id": "25335d37-b264-4b5c-92fa-7f90444081ab",
@@ -164,6 +188,14 @@
                 "id": "f5909034-8d93-40ce-930e-fe58d811fd8f",
                 "resourcePath": "sprites\\sTower1\\sTower1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4c54e26f-230d-4ff4-a682-6eb3fb667185",
+            "Value": {
+                "id": "8bcc0e93-8679-4bc0-8cfc-fb0707e2b881",
+                "resourcePath": "objects\\oTower2D\\oTower2D.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -239,6 +271,14 @@
             }
         },
         {
+            "Key": "8c5c6564-6d37-439e-9a06-7a3ae4b25d04",
+            "Value": {
+                "id": "4156eb69-f82b-4ce3-83a0-8d4a805cc8f2",
+                "resourcePath": "objects\\oTower3C\\oTower3C.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e985394-5b18-4c3a-9b62-4baa2c00730d",
             "Value": {
                 "id": "0e73459a-4805-4b33-a772-d3bb47b898eb",
@@ -260,6 +300,14 @@
                 "id": "d1556a72-1eac-469e-8475-da41fc3544df",
                 "resourcePath": "views\\a40ea80d-c5e4-4770-bdd9-e90fe25282f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a4d3b88a-5156-4669-9805-833d54eef673",
+            "Value": {
+                "id": "7ebd2f43-3336-4cac-942a-4b5d2d2be831",
+                "resourcePath": "objects\\oTower3D\\oTower3D.yy",
+                "resourceType": "GMObject"
             }
         },
         {
