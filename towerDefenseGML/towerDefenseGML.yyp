@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "192c4e32-7b5f-4b76-8f1a-c2b0c4254a66",
+            "Value": {
+                "id": "5df3e0b7-ea20-4770-900b-6b9c368c5281",
+                "resourcePath": "sprites\\sTower2\\sTower2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ac415a1-12c9-4fa0-9d53-b5aefa5f67ee",
             "Value": {
                 "id": "dce82633-46ab-4d8a-9544-c1dc2371187c",
@@ -67,6 +75,14 @@
             "Value": {
                 "id": "e47d3c30-7406-4be7-9f0f-922ddf59bdc2",
                 "resourcePath": "views\\2ee69817-83fb-44d7-ba06-1de20bb67549.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3028ed4f-c9a6-4c90-9c9c-3e6430429be0",
+            "Value": {
+                "id": "70275ffb-6d3f-4fe8-8eb4-f0305d2639b2",
+                "resourcePath": "views\\3028ed4f-c9a6-4c90-9c9c-3e6430429be0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -119,11 +135,27 @@
             }
         },
         {
+            "Key": "4408d656-67d3-4088-9302-5ea97f8c5839",
+            "Value": {
+                "id": "86e4362c-47c6-4ef7-8234-495917674a30",
+                "resourcePath": "views\\4408d656-67d3-4088-9302-5ea97f8c5839.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "45ba7ff5-1989-4a87-bdcf-8ababdc46844",
             "Value": {
                 "id": "25335d37-b264-4b5c-92fa-7f90444081ab",
                 "resourcePath": "views\\45ba7ff5-1989-4a87-bdcf-8ababdc46844.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47b96ea8-98d9-47fb-ac5b-afb65e8c3b1a",
+            "Value": {
+                "id": "f5909034-8d93-40ce-930e-fe58d811fd8f",
+                "resourcePath": "sprites\\sTower1\\sTower1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,6 +175,30 @@
             }
         },
         {
+            "Key": "5cdbaefe-eb0c-48ac-ae4a-2be9e7861451",
+            "Value": {
+                "id": "8c2c6289-ac73-46f2-a71e-98f46dc0f174",
+                "resourcePath": "objects\\oTower1\\oTower1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ddd08b7-5499-48ff-9965-b857aa3fd7c0",
+            "Value": {
+                "id": "8591f854-ebb8-41ba-900d-41f48bfc5313",
+                "resourcePath": "sprites\\sTower3\\sTower3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "652518aa-916e-40a5-8adf-c665338526d5",
+            "Value": {
+                "id": "329fc317-5547-4d7a-afb3-bd8de8a74495",
+                "resourcePath": "objects\\oTower1D\\oTower1D.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "655fd4ea-59c0-450e-a896-d125ccbf2da2",
             "Value": {
                 "id": "41286ccb-2780-45b1-be57-d546dc515588",
@@ -151,10 +207,26 @@
             }
         },
         {
+            "Key": "6ea281d6-0829-4ea4-a118-ac5faa4f8e1c",
+            "Value": {
+                "id": "75d76c98-c5de-41da-a2c8-536c24bcd6d7",
+                "resourcePath": "views\\6ea281d6-0829-4ea4-a118-ac5faa4f8e1c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7734f4a6-193b-4b5b-b781-564039dd2d12",
             "Value": {
                 "id": "410f9910-7313-4b06-8e69-4d3aea6ef4d1",
                 "resourcePath": "views\\7734f4a6-193b-4b5b-b781-564039dd2d12.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "791e1aee-b7ed-4c0e-a363-ca31c9228c3a",
+            "Value": {
+                "id": "d7323d8c-4798-4864-9fb3-e01a56d645e5",
+                "resourcePath": "views\\791e1aee-b7ed-4c0e-a363-ca31c9228c3a.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -204,6 +276,14 @@
                 "id": "29537479-f463-4c9e-ace1-cca402aa6e07",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d53b6c08-970e-4586-81b3-be8d00876688",
+            "Value": {
+                "id": "e836c37c-fdce-4cb7-a5b8-4abb230da121",
+                "resourcePath": "objects\\oTower1C\\oTower1C.yy",
+                "resourceType": "GMObject"
             }
         },
         {
