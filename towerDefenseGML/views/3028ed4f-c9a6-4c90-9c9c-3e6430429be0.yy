@@ -6,7 +6,8 @@
     "children": [
         "5cdbaefe-eb0c-48ac-ae4a-2be9e7861451",
         "01610d10-8b17-442a-9361-c920ffe39fc0",
-        "45b356dc-6f48-4f26-bc5a-354236df1539"
+        "45b356dc-6f48-4f26-bc5a-354236df1539",
+        "367bcf88-dcda-4f42-a00c-5a64e4d9e24e"
     ],
     "filterType": "GMObject",
     "folderName": "Towers",
