@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2fd1d697-da59-40e4-843c-6df8005a66c6",
+            "Value": {
+                "id": "e2599d3e-d1ec-4447-8892-509ae636003f",
+                "resourcePath": "scripts\\mouseOver\\mouseOver.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3028ed4f-c9a6-4c90-9c9c-3e6430429be0",
             "Value": {
                 "id": "70275ffb-6d3f-4fe8-8eb4-f0305d2639b2",
@@ -384,7 +392,7 @@
         }
     ],
     "script_order": [
-        
+        "2fd1d697-da59-40e4-843c-6df8005a66c6"
     ],
     "tutorial": ""
 }

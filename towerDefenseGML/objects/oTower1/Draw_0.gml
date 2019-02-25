@@ -1,4 +1,5 @@
 draw_self();
+if(mouseOver(x,y,sprite_width,sprite_height))
 draw_circle(x,y,range,true);
 
 var en = instance_nearest(x,y,oEnemy);
