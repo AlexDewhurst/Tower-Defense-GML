@@ -8,6 +8,6 @@ alarm[1] = room_speed * 5;
 global.hp = 100;
 global.spd = 1; 
 global.level = 1;
-global.playerLiveLeft = 50;
+global.playerLiveLeft = 1;
 
 global.coins = 1000;

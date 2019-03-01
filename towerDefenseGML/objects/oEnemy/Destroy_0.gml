@@ -1,1 +1,2 @@
 global.coins += 20;
+
