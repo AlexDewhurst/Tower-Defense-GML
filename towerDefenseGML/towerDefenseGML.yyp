@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "263e1f44-a9b0-4528-baf4-8076937f19d1",
+            "Value": {
+                "id": "f3c160d6-6848-402e-aee1-fbc3cd81783b",
+                "resourcePath": "sprites\\sGameOver\\sGameOver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ac415a1-12c9-4fa0-9d53-b5aefa5f67ee",
             "Value": {
                 "id": "dce82633-46ab-4d8a-9544-c1dc2371187c",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "95af9e36-584f-4cbe-ba59-b0d5aea0ff2e",
+            "Value": {
+                "id": "1127407d-115c-4eda-ad88-a0e1bc57c9a3",
+                "resourcePath": "views\\95af9e36-584f-4cbe-ba59-b0d5aea0ff2e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9e985394-5b18-4c3a-9b62-4baa2c00730d",
             "Value": {
                 "id": "0e73459a-4805-4b33-a772-d3bb47b898eb",
@@ -348,6 +364,14 @@
                 "id": "7ebd2f43-3336-4cac-942a-4b5d2d2be831",
                 "resourcePath": "objects\\oTower3D\\oTower3D.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aa49f658-ed56-4c82-ad45-10bc369dc71b",
+            "Value": {
+                "id": "7beeb34c-f439-4635-b30b-27abe38933fd",
+                "resourcePath": "fonts\\fGameOver\\fGameOver.yy",
+                "resourceType": "GMFont"
             }
         },
         {
